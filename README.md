@@ -18,7 +18,7 @@ This document explains what data is collected and stored by the bot when used in
 
 ---
 
-### 2. Webhook ID
+### 2. Channel ID
 **EN**
 Channel IDs are stored only when a feature or system is enabled, such as:
 - Counting Game System
