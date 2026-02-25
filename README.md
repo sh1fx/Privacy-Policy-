@@ -7,7 +7,7 @@ This document explains what data is collected and stored by the bot when used in
 
 ## 📦 Data Collection | ข้อมูลที่มีการจัดเก็บ
 
-### 🏠 Server ID
+### 1. Server ID
 **EN**
 - Automatically stored when the bot joins a Discord server.
 - Used to identify and manage server-specific configurations.
@@ -18,7 +18,7 @@ This document explains what data is collected and stored by the bot when used in
 
 ---
 
-### 📺 Channel ID
+### 2. Webhook ID
 **EN**
 Channel IDs are stored only when a feature or system is enabled, such as:
 - Counting Game System
@@ -37,7 +37,7 @@ Channel ID จะถูกบันทึกเฉพาะเมื่อมี
 
 ---
 
-### 🔗 Webhook URL
+### 3. Webhook URL
 **EN**
 Some bot features require frequent message delivery (e.g. message edit/delete logs).  
 Due to Discord rate limits, Webhooks may be used to send messages efficiently.
@@ -52,7 +52,7 @@ Due to Discord rate limits, Webhooks may be used to send messages efficiently.
 
 ---
 
-## 🗑️ Data Removal | การลบข้อมูล
+## * Data Removal | การลบข้อมูล
 
 **EN**
 If you wish to remove stored data, you may contact us through:
